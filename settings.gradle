@@ -1,0 +1,3 @@
+include ':VerifyInputLib'
+include ':app'
+rootProject.name = "VerifyInput"
